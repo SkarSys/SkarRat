@@ -1,0 +1,12 @@
+ctypes==1.0.4
+pywin32==305
+requests==2.26.0
+colorama==0.4.4
+subprocess.run==3.8
+shutil==1.0.1
+random==2.3
+platform==1.0.1
+winreg==0.15
+socket==1.0
+os==0.1
+threading==3.3
